@@ -1,0 +1,6 @@
+# Files that should not be tracked between repositories 
+**/.DS_Store
+
+# Put any executable files here
+**/a.out
+
